@@ -1,4 +1,6 @@
-## Hi there 👋
+Hello
+Im Axel, Im getting started learning python
+im interested in entrepeneurship, philosophy and love reading.## Hi there 👋
 
 <!--
 **Axeseller/Axeseller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
